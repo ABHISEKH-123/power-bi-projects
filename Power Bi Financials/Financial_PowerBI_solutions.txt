@@ -1,0 +1,29 @@
+Financials data Business Problems and solutions
+
+Q1) Which region has the highest sum of revenue ?
+
+A1) Asia has the highest sum of revenue.
+
+Q2) Which product has the highest and lowest sum of revenue ?
+
+A2) Smartphones has the highest sum of revenue and Laptops has the lowest sum of revenue.
+
+Q3) Which country has the highest average of revenue ?
+
+A3) Singapore has the highest average by revenue.
+
+Q4) Compare the sum of revenue between the year 2020 and the year 2019.
+
+A4) Year 2020 has sum of revenue 20.48% higher compared to the year 2019.
+
+Q5) Which region has the highest number of transaction ?
+
+A5) Asia has the highest number of transaction.
+
+Q6) Arrange the stores on the basis of revenue from highest to lowest ?
+
+A6) Store1 > Store4 > Store3 > Store5 > Store2 
+
+Q7) Which gender has the higher count of products?
+
+A7) Male gender has the higher count of products compared to females.

@@ -1,0 +1,19 @@
+This project is for visualizing financial transactions for various stores across different countries of the continent. 
+It is built from Csv data files and provides a comprehensive view of the scale and scope of financial transactions and sum of revenue.
+It provides valuable insights into the number of transactions and sum of revenue in five different types of stores over a period of time.
+It also encompasses a wide range of metrics, including revenue , number of transactions and average age of customers during their transactions in different stores.
+The data has been examined on a Yearly basis and depicts sum of revenue in relation to different dimensions such as region , products and country.
+It can be further extended to support varying time intervals.
+
+
+Q) What is year over year growth ?
+
+A) Year-over-year growth compares a company's recent financial performance with its numbers for the same month one year earlier.
+
+Q) What is currency conversion ?
+
+A) Currency Conversion. Currency conversion is the process that facilitates transactions where the issuer and acquirer use different currencies by exchanging one type of currency for another.
+
+Q) What is financial transactions ?
+
+A) A financial transaction is an agreement, or communication, between a buyer and seller to exchange goods, services, or assets for payment. 
